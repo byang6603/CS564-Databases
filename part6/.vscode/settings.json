@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "select.C": "cpp",
+        "delete.C": "cpp",
+        "insert.C": "cpp",
+        "print.C": "cpp",
+        "sort.C": "cpp",
+        "iostream": "cpp"
+    }
+}
